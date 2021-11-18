@@ -21,23 +21,27 @@ Data source - election_results.csv file is an Excel file with given data.
 
 ## Results: 
 
-** 1) How is the district summary affected?
-** 2) How is the school summary affected?
+#### 1) How is the district summary affected?
+#### 2) How is the school summary affected?
 
-** 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+#### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 By replacing Thomas High Schools' ninth graders' math and reading scores, the ranking of the school moved from 2md place to 8th place.
 
-** 4) How does replacing the ninth-grade scores affect the following:
-For comparative study, we replaced the ninth grade scores. The various aspects of the analysis is discussed below in detail.    
+#### 4) How does replacing the ninth-grade scores affect the following:
+For comparative study, we replaced the ninth grade scores. The various aspects of the analysis is discussed below in detail. 
+
 - Math and reading scores by grade
 We wanted to get more in depth knowledge on the performance of the students at the different schools.Therefore, we tabulated the data according to the grades 9th, 10th, 11th and 12th. This helped us greatly in the comparative study.
 
 ![4](https://user-images.githubusercontent.com/23488019/142510429-008e8c92-5783-41ae-ad9d-ec293631a0cd.PNG)
+
 ![5](https://user-images.githubusercontent.com/23488019/142510437-8fbb2830-bc35-4e5f-840b-74be7c821247.PNG)
+
  As per the tabulated results we can see that there was hardly any change in the results.
     
 - Scores by school spending
-    Various bins were created to analyze the scores based on spending. As per the tabulated results it can be noted that some schools that had the lowest spending per student, still could achieve overall passing percentage of 90%.
+- 
+Various bins were created to analyze the scores based on spending. As per the tabulated results it can be noted that some schools that had the lowest spending per student, still could achieve overall passing percentage of 90%.
     
 ![7](https://user-images.githubusercontent.com/23488019/142512379-90137ba5-fb41-4f13-8dec-3996f43ea070.PNG)
 
@@ -46,7 +50,8 @@ On the other hand, some other schools with per student spending of over $645 wer
 ![3](https://user-images.githubusercontent.com/23488019/142510293-c376a1ac-d397-47d9-ae39-ac6b49e44ed2.PNG)
 
 - Scores by school size
-      Bins were created and various groups were defined like small, medium and large. The size data was then categorized based on the bins and the results can be seen below.
+- 
+Bins were created and various groups were defined like small, medium and large. The size data was then categorized based on the bins and the results can be seen below.
       
 ![6](https://user-images.githubusercontent.com/23488019/142511969-9e574e91-49c5-4a53-b813-bdde13126f74.PNG)
 
@@ -54,11 +59,13 @@ On the other hand, some other schools with per student spending of over $645 wer
 
 - Scores by school type
 
-      In order to understand which types of schools were performing well, we performed an analysis and found out that the charter schools performed much better than the district schools. The overall percentage for charter schools was found to be 90% as compared to the disctrict schools having just 54%. 
+In order to understand which types of schools were performing well, we performed an analysis and found out that the charter schools performed much better than the district schools. The overall percentage for charter schools was found to be 90% as compared to the disctrict schools having just 54%. 
+
 ![1](https://user-images.githubusercontent.com/23488019/142509864-5041e684-a16d-4c67-a14c-cbed9c8c146a.PNG)
 
 ## Summary:
- Summarizing the  four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+
+Summarizing the  four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
 
  - 1) After nullifying the scores of (th graders at Thomas High School, there was not much difference in the school district summary.
 
