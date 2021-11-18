@@ -21,13 +21,13 @@ Data source - election_results.csv file is an Excel file with given data.
 
 ## Results: 
 
-#### 1) How is the district summary affected?
-#### 2) How is the school summary affected?
+### 1) How is the district summary affected?
+### 2) How is the school summary affected?
 
-#### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 By replacing Thomas High Schools' ninth graders' math and reading scores, the ranking of the school moved from 2md place to 8th place.
 
-#### 4) How does replacing the ninth-grade scores affect the following:
+### 4) How does replacing the ninth-grade scores affect the following:
 For comparative study, we replaced the ninth grade scores. The various aspects of the analysis is discussed below in detail. 
 
 #### - Math and reading scores by grade
