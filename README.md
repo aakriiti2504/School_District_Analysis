@@ -1,50 +1,63 @@
 # School_District_Analysis
+This analysis consists of two technical deliverables and written report to present the results on the ninth grade reading and math scores and  perform school district analysis. 
+
+
 ## Background: 
 
-Maria, the chief data scientist for a city school district is responsible for 
-analyzing information from a variety of resources and in a variety of formats. In this role she has a task of 
-preparing all standardized test data for analysis, reportings and presesntation to provide
-insights about performance trends and patterns. These insights are used for informd discussions and 
-strategic decisions at the school and district level. 
+Maria, the chief data scientist for a city school district is responsible for analyzing information from a variety of resources and in a variety of formats. In this role she has a task of preparing all standardized test data for analysis, reportings and presesntation to provide insights about performance trends and patterns. These insights are used for informd discussions and strategic decisions at the school and district level. 
 
-## Goals:
+## Overview of the school district analysis (Purpose):
 
-I will be helping Maria analyze data on student funding and students standardized test scores. 
-I am given access to every student's math and reading scores, as well as various information on the schools they attend. 
-my task is to aggregate the data and showcase trends in school performance. This analysis will assist the school board and the superintendent
-in making decisions regarding the school budget and priorities. For this task, the Family Educational Rights and Privacy Act(FERPA) of 1974 is 
-taken into consideration as it protects the  privacy of student education records. This law applies to all school that receive funds 
-under an applicable program of the US Department of Education. The data is to be treated with utmost confidentiality to protect the students I am 
-reporting on. 
+I will be helping Maria analyze data on student funding and students standardized test scores. I am given access to every student's math and reading scores, as well as various information on the schools they attend. My task is to aggregate the data and showcase trends in school performance. This analysis will assist the school board and the superintendent in making decisions regarding the school budget and priorities. For this task, the Family Educational Rights and Privacy Act(FERPA) of 1974 is taken into consideration as it protects the  privacy of student education records. This law applies to all school that receive funds under an applicable program of the US Department of Education. The data is to be treated with utmost confidentiality to protect the students I am reporting on. 
 
 ## Tools used:
 
-Maria advises to download and install a software calle Anaconda, a free open source distribution 
-software for over 1500 packages, to perform the analysis. She has also provide some instructions and video tutorials. 
-The analysis of school data will be done using the package 'Jupyter Notebook'.
-In essence, Jupyter Notebook is to Anaconda what Microsoft Word is to Microsoft Office. Anaconda packages support the Python an R 
-programming languages for datatscience, machine learning and data processing and so on. Here we will be using Python.
+Maria advises to download and install a software calle Anaconda, a free open source distribution software for over 1500 packages, to perform the analysis. She has also provide some instructions and video tutorials. The analysis of school data will be done using the package 'Jupyter Notebook'.Jupyter Notebook is to Anaconda what Microsoft Word is to Microsoft Office. Anaconda packages support the Python and R programming languages for datatscience, machine learning and data processing and so on. Here we will be using Python too.
+Data source - election_results.csv file is an Excel file with given data.
+- Software - Python 3.7.8, Visual Studio Code, Anaconda, Jupyter Notebook
+- Data Source - PyCitySchools.ipynb
+- Libraries - Pandas
+- Add,commit,push - GitBash and GitHub
 
 ## Results: 
 
-Using bulleted lists and images of DataFrames as support, address the following questions.
+- 1) How is the district summary affected?
+- 2) How is the school summary affected?
 
-#### - How is the district summary affected?
+- 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+By replacing Thomas High Schools' ninth graders' math and reading scores, the ranking of the school moved from 2md place to 8th place.
 
-#### - How is the school summary affected?
+- 4) How does replacing the ninth-grade scores affect the following:
+    - Math and reading scores by grade
+    
 
-#### - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+![4](https://user-images.githubusercontent.com/23488019/142510429-008e8c92-5783-41ae-ad9d-ec293631a0cd.PNG)
+![5](https://user-images.githubusercontent.com/23488019/142510437-8fbb2830-bc35-4e5f-840b-74be7c821247.PNG)
 
-#### - How does replacing the ninth-grade scores affect the following:
+    
+    - Scores by school spending
 
-#### - Math and reading scores by grade
+![3](https://user-images.githubusercontent.com/23488019/142510293-c376a1ac-d397-47d9-ae39-ac6b49e44ed2.PNG)
 
-#### - Scores by school spending
+    - Scores by school size
+      Bins were created and various groups were defined like small, medium and large. The size data was then categorized based on the bins and the results can be seen below.
 
-#### - Scores by school size
+![2](https://user-images.githubusercontent.com/23488019/142509868-1c884215-54bd-4eca-abac-e6642df39973.PNG)
 
-#### - Scores by school type
+    - Scores by school type
 
-## Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+      In order to understand which types of schools were performing well, we performed an analysis and found out that the charter schools performed much better than the district schools. The overall percentage for charter schools was found to be 90% as compared to the disctrict schools having just 54%. 
+![1](https://user-images.githubusercontent.com/23488019/142509864-5041e684-a16d-4c67-a14c-cbed9c8c146a.PNG)
 
+## Summary:
+ Summarizing the  four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+
+ - 1) After nullifying the scores of (th graders at Thomas High School, there was not much difference in the school district summary.
+
+ - 2) when we nullified the scores of 9th graders at Thomas High school, we could observe that the school lost its rank in the top 5 ranking schools.
+
+ - 3) After revaluation of 10th and 12th scores at Thomas High School, the average scores and percentages changed drastically, resulting in it levelling up.
+
+ - 4) For 10th and 12th grades, after we recalculated the scores, the ranking of Thomas High School moved to the top 5 school rankings in the district. 
+
+ We can also conclude from the overall analysis that the schools excelling academically were mostly charter schools. As a result, the district needs to find various ways to address this issue for the overall improvement in academics.  It was also noted that the schools with more students had a direct impact on their academic success.
