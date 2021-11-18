@@ -33,9 +33,18 @@ For comparative study, we replaced the ninth grade scores. The various aspects o
 #### - Math and reading scores by grade
 We wanted to get more in depth knowledge on the performance of the students at the different schools.Therefore, we tabulated the data according to the grades 9th, 10th, 11th and 12th. This helped us greatly in the comparative study.
 
-![4](https://user-images.githubusercontent.com/23488019/142510429-008e8c92-5783-41ae-ad9d-ec293631a0cd.PNG)
+####            Math scores by grade:
 
-![5](https://user-images.githubusercontent.com/23488019/142510437-8fbb2830-bc35-4e5f-840b-74be7c821247.PNG)
+![8](https://user-images.githubusercontent.com/23488019/142515020-cbd31272-7673-46c3-840c-047975ee70ad.PNG)
+
+![11](https://user-images.githubusercontent.com/23488019/142514962-8a1bba8c-82bc-439e-81a1-e20fbda2c176.PNG)
+
+####            Reading scores by grade:
+
+![9](https://user-images.githubusercontent.com/23488019/142515006-01e3c070-f2cd-4dd0-9059-456feab3f6a5.PNG)
+
+![10](https://user-images.githubusercontent.com/23488019/142514996-c488ce85-0bc5-4c69-9acc-9478ef51b0dd.PNG)
+
 
  As per the tabulated results we can see that there was hardly any change in the results.
     
