@@ -35,9 +35,9 @@ We wanted to get more in depth knowledge on the performance of the students at t
 
 ####            Math scores by grade:
 
-![8](https://user-images.githubusercontent.com/23488019/142515020-cbd31272-7673-46c3-840c-047975ee70ad.PNG)
-
 ![11](https://user-images.githubusercontent.com/23488019/142514962-8a1bba8c-82bc-439e-81a1-e20fbda2c176.PNG)
+
+![4](https://user-images.githubusercontent.com/23488019/142515194-c6143a8f-9296-4d82-ba0d-1401b28343a6.PNG)
 
 ####            Reading scores by grade:
 
