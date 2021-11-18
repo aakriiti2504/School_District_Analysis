@@ -29,18 +29,25 @@ By replacing Thomas High Schools' ninth graders' math and reading scores, the ra
 
 - 4) How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
-    
+We wanted to get more in depth knowledge on the performance of the students at the different schools.Therefore, we tabulated the data according to the grades 9th, 10th, 11th and 12th. This helped us greatly in the comparative study.
 
 ![4](https://user-images.githubusercontent.com/23488019/142510429-008e8c92-5783-41ae-ad9d-ec293631a0cd.PNG)
 ![5](https://user-images.githubusercontent.com/23488019/142510437-8fbb2830-bc35-4e5f-840b-74be7c821247.PNG)
-
+ As per the tabulated results we can see that there was hardly any change in the results.
     
     - Scores by school spending
+    Various bins were created to analyze the scores based on spending. As per the tabulated results it can be noted that some schools that had the lowest spending per student, still could achieve overall passing percentage of 90%.
+    
+![7](https://user-images.githubusercontent.com/23488019/142512379-90137ba5-fb41-4f13-8dec-3996f43ea070.PNG)
+
+On the other hand, some other schools with per student spending of over $645 were able to achieve an overall passing percentage of 53% only. Hence the district needs to understand as to how they can support the schools so that they can deliver better results in the future. 
 
 ![3](https://user-images.githubusercontent.com/23488019/142510293-c376a1ac-d397-47d9-ae39-ac6b49e44ed2.PNG)
 
     - Scores by school size
       Bins were created and various groups were defined like small, medium and large. The size data was then categorized based on the bins and the results can be seen below.
+      
+![6](https://user-images.githubusercontent.com/23488019/142511969-9e574e91-49c5-4a53-b813-bdde13126f74.PNG)
 
 ![2](https://user-images.githubusercontent.com/23488019/142509868-1c884215-54bd-4eca-abac-e6642df39973.PNG)
 
