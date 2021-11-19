@@ -40,11 +40,8 @@ On performaing calculations for Thomas High School, it can be noted that there w
 ![21](https://user-images.githubusercontent.com/23488019/142551000-164e472f-378e-4cfa-9f62-c63ab97ea3d4.PNG)
 
 ![20](https://user-images.githubusercontent.com/23488019/142551005-5480af91-90f3-42e1-bfe5-6c65281390ba.PNG)
+ The passing math percentage score also changed from 74.8 to 75%. Passing reading percentage changed from 85.7 to 86%. The overall passing percentage changed from 64.9 to 65%. Hence there was not a lot of major changes.
 
-
-
-
-![16](https://user-images.githubusercontent.com/23488019/142519551-4e36c80d-4fc8-48ac-bfa5-c2cd1b5c220b.PNG)
 
 ### 2) How is the school summary affected?
 For Thomas High School, the average math and reading scores were recalculated and school summary updated. It can be noted for Thomas High School that before data cleanup the overall passing percentage was 91%. However after cleanup it went down to 65%. 
@@ -53,7 +50,7 @@ Before the cleanup, overall percentage is 90%
 ![16](https://user-images.githubusercontent.com/23488019/142535135-40cb0012-1534-4c08-9143-b26851f10f32.PNG)
 After cleanup, overall percentage is 65%.
 
-Hence, there was abig change in Thomas High School's Overall Passing % that moved its rank from 2nd to the 8th after the cleanup. Hence this data analysis could help statistically validate the board member’s suspicion about academic dishonesty at Thomas High School. 
+Hence, there was a big change in Thomas High School's Overall Passing % that moved its rank from 2nd to the 8th after the cleanup. Hence this data analysis could help statistically validate the board member’s suspicion about academic dishonesty at Thomas High School. 
 
 ### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
