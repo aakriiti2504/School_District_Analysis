@@ -44,10 +44,16 @@ For Thomas High School, the average math and reading scores were recalculated an
 ### 2) How is the school summary affected?
 
 It can be noted for Thomas High School that before data cleanup the overall passing percentage was 91%. However after cleanup it went down to 65%. 
+![17](https://user-images.githubusercontent.com/23488019/142536233-9807182e-7b51-4bd1-9ef4-638bbb91e57f.PNG)
+Before the cleanup, overall percentage is 90%
+![16](https://user-images.githubusercontent.com/23488019/142535135-40cb0012-1534-4c08-9143-b26851f10f32.PNG)
+After cleanup, overall percentage is 65%.
+
+Hence, there was abig change in Thomas High School's Overall Passing % that moved its rank from 2nd to the 8th after the cleanup. Hence this data analysis could help statistically validate the board member’s suspicion about academic dishonesty at Thomas High School. 
 
 ### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-By replacing Thomas High Schools' ninth graders' math and reading scores, the ranking of the school moved from the 2nd position to the 8th position.
+By replacing Thomas High Schools' ninth graders' math and reading scores, the ranking of the school moved from the 2nd position to the 8th position. Rest of the schools did not see much change in their rankings as much as Thomas High School.
 
 ![13](https://user-images.githubusercontent.com/23488019/142515676-2f375373-2b3a-46e6-ad2e-2595ec26ffca.PNG)
 
@@ -56,7 +62,7 @@ By replacing Thomas High Schools' ninth graders' math and reading scores, the ra
 For comparative study, we replaced the ninth grade scores. The various aspects of the analysis is discussed below in detail. 
 
 #### - Math and reading scores by grade
-We wanted to get more in depth knowledge on the performance of the students at the different schools.Therefore, we tabulated the data according to the grades 9th, 10th, 11th and 12th. This helped us greatly in the comparative study.
+We wanted to get more in depth knowledge on the performance of the students at the different schools.Therefore, we tabulated the data according to the grades 9th, 10th, 11th and 12th. This helped us greatly in the comparative study. Math and reading scores for Thomas High School reduced after the cleanup hence supporting the fact that the 9th graders' score were equivalent to failing.
 
 ####            Math scores by grade:
 - Math Score was set to 'NaN' that is equivalent to 0.
