@@ -100,12 +100,12 @@ By replacing Thomas High Schools' ninth graders' math and reading scores, the ra
 For comparative study, we replaced the ninth grade scores. The various aspects of the analysis is discussed below in detail. 
 
 #### - Math and reading scores by grade
-We wanted to get more in depth knowledge on the performance of the students at the different schools.Therefore, we tabulated the data according to the grades 9th, 10th, 11th and 12th. This helped us greatly in the comparative study. Math and reading scores for Thomas High School reduced after the cleanup hence supporting the fact that the 9th graders' score were equivalent to failing.
+We wanted to get more in depth knowledge on the performance of the students at the different schools.Therefore, we tabulated the data according to the grades 9th, 10th, 11th and 12th. This helped us greatly in the comparative study. Math and reading scores for Thomas High School reduced after the cleanup hence supporting the fact that the 9th graders' score were equivalent to negligible. The average math and reading scores for 10th,11th and 12th grades did not change much after the analysis.
 
 ####            Math scores by grade:
 - Math Score was set to 'NaN' that is equivalent to 0.
 - Student count before the cleanup was 1635.
-- Studnet count after the cleanup was 1174. 
+- Studet count after the cleanup was 1174. 
 
 ![11](https://user-images.githubusercontent.com/23488019/142514962-8a1bba8c-82bc-439e-81a1-e20fbda2c176.PNG)
 
@@ -157,7 +157,7 @@ In order to understand which types of schools were performing well, we performed
 
 
 - Thomas High School is a 'charter' type of school.
-- Removing Thomas High School 9th Grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing".
+- Removing Thomas High School 9th Grade scores reduces the "% Passing Math" by 0.1%, "% Passing Reading" by 0.3% and "% Overall Passing" by over 0.3%.
 
 ## Summary:
 
