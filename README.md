@@ -107,21 +107,15 @@ We wanted to get more in depth knowledge on the performance of the students at t
 - Student count before the cleanup was 1635.
 - Studet count after the cleanup was 1174. 
 
-![11](https://user-images.githubusercontent.com/23488019/142514962-8a1bba8c-82bc-439e-81a1-e20fbda2c176.PNG)
+![39](https://user-images.githubusercontent.com/23488019/142582457-5f6fe89a-c08d-4030-91bf-0423e8faab41.PNG)
 
 
+####            Reading scores by grade:
 - Reading Score was set to 'NaN' that is equivalent to 0.
 - Student count before the cleanup was 1635.
 - Studnet count after the cleanup was 1174. 
 
-![4](https://user-images.githubusercontent.com/23488019/142515194-c6143a8f-9296-4d82-ba0d-1401b28343a6.PNG)
-
-####            Reading scores by grade:
-
-![9](https://user-images.githubusercontent.com/23488019/142515006-01e3c070-f2cd-4dd0-9059-456feab3f6a5.PNG)
-
-![10](https://user-images.githubusercontent.com/23488019/142514996-c488ce85-0bc5-4c69-9acc-9478ef51b0dd.PNG)
-
+![38](https://user-images.githubusercontent.com/23488019/142582468-a5599709-d3af-4060-aac7-258d32511a66.PNG)
 
  As per the tabulated results we can see that there was hardly any change in the results.
     
