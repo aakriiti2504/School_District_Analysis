@@ -18,14 +18,14 @@ Data source - election_results.csv file is an Excel file with given data.
 - Data Source - PyCitySchools.ipynb
 - Libraries - Pandas
 - Add,commit,push - GitBash and GitHub
-- 
+
 ## Purpose:
 The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty. It has been noted that the reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. Maria in turn has asked me to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once replaced, Maria would like me to repeat the school district analysis  and write up a report to describe how these changes affected the overall analysis. For this purpose, the following steps were taken to work on the given starter data:
 - In order to select all the math and reading scores from Thomas High School, the loc method was used.
 - In order to retrieve all the rows with 'Thomas High School' and '9th grade' entries, the comparison operator was used.
 - The reading and math scores were also retrieved using logical and comparison operators.
 - The reading and math scores were then replaced by 'NaN' so that such entries will not be considered for calculation in the school district summary.
-- 
+ 
 ![15](https://user-images.githubusercontent.com/23488019/142519175-45dab3df-1bea-4263-88c2-72e4ecbda380.PNG)
 
 
@@ -33,20 +33,26 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ### 1) How is the district summary affected?
 On performaing calculations for Thomas High School, it can be noted that there was'nt much difference in the average scores and percentage results for 9th graders. 
+
 ![14](https://user-images.githubusercontent.com/23488019/142515813-1f590f82-6877-4e17-8396-10c72e6b4359.PNG)
 
 
 For Thomas High School, the average math and reading scores were recalculated and school summary updated.
+
 ![16](https://user-images.githubusercontent.com/23488019/142519551-4e36c80d-4fc8-48ac-bfa5-c2cd1b5c220b.PNG)
 
 ### 2) How is the school summary affected?
+
 It can be noted for Thomas High School that before data cleanup the overall passing percentage was 91%. However after cleanup it went down to 65%. 
 
 ### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 By replacing Thomas High Schools' ninth graders' math and reading scores, the ranking of the school moved from the 2nd position to the 8th position.
+
 ![13](https://user-images.githubusercontent.com/23488019/142515676-2f375373-2b3a-46e6-ad2e-2595ec26ffca.PNG)
 
 ### 4) How does replacing the ninth-grade scores affect the following:
+
 For comparative study, we replaced the ninth grade scores. The various aspects of the analysis is discussed below in detail. 
 
 #### - Math and reading scores by grade
@@ -56,12 +62,14 @@ We wanted to get more in depth knowledge on the performance of the students at t
 - Math Score was set to 'NaN' that is equivalent to 0.
 - Student count before the cleanup was 1635.
 - Studnet count after the cleanup was 1174. 
+
 ![11](https://user-images.githubusercontent.com/23488019/142514962-8a1bba8c-82bc-439e-81a1-e20fbda2c176.PNG)
 
 
 - Reading Score was set to 'NaN' that is equivalent to 0.
 - Student count before the cleanup was 1635.
 - Studnet count after the cleanup was 1174. 
+
 ![4](https://user-images.githubusercontent.com/23488019/142515194-c6143a8f-9296-4d82-ba0d-1401b28343a6.PNG)
 
 ####            Reading scores by grade:
@@ -106,7 +114,7 @@ In order to understand which types of schools were performing well, we performed
 
 - Thomas High School is a 'charter' type of school.
 - Removing Thomas High School 9th Grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing".
-- 
+
 ## Summary:
 
 Summarizing the  four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
