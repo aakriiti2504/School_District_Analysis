@@ -81,17 +81,20 @@ On performaing calculations for Thomas High School, it can be noted that there w
 
 
 ### 2) How is the school summary affected?
-For Thomas High School, the average math and reading scores were recalculated and school summary updated. It can be noted for Thomas High School that before data cleanup the overall passing percentage was 91%. However after cleanup it went down to 65%. 
-![17](https://user-images.githubusercontent.com/23488019/142536233-9807182e-7b51-4bd1-9ef4-638bbb91e57f.PNG)
-Before the cleanup, overall percentage is 90%
-![16](https://user-images.githubusercontent.com/23488019/142535135-40cb0012-1534-4c08-9143-b26851f10f32.PNG)
-After cleanup, overall percentage is 65%.
+For Thomas High School, the average math and reading scores were recalculated and school summary updated. It can be noted for Thomas High School that before data cleanup the overall passing percentage was 65% and after deliverable 2 it moved up to 90%. 
 
-Hence, there was a big change in Thomas High School's Overall Passing % that moved its rank from 2nd to the 8th after the cleanup. Hence this data analysis could help statistically validate the board member’s suspicion about academic dishonesty at Thomas High School. 
+![40](https://user-images.githubusercontent.com/23488019/142584840-85d00ae3-165e-4cef-9404-a3c29772d350.PNG)
+
+Before and after the cleanup, the overall percentage is 65% and 90%. There was achange in the %passing math, %Passing Reading and %Overall passing where all the values were over 90%.
+
+
+![41](https://user-images.githubusercontent.com/23488019/142584835-eb03fe39-0387-4312-b7a6-8d402a11d5e5.PNG)
+
+
 
 ### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-By replacing Thomas High Schools' ninth graders' math and reading scores, the ranking of the school moved from the 2nd position to the 8th position. Rest of the schools did not see much change in their rankings as much as Thomas High School. Thomas High school was no longer in the list of top 5 schools.
+By replacing Thomas High Schools' ninth graders' math and reading scores, Rest of the schools did not see much change in their rankings as much as Thomas High School. Thomas High school's initial overall percentage was 65% and then it changed to 90%.
 
 ![13](https://user-images.githubusercontent.com/23488019/142515676-2f375373-2b3a-46e6-ad2e-2595ec26ffca.PNG)
 
