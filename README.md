@@ -119,7 +119,7 @@ In order to understand which types of schools were performing well, we performed
 
 Summarizing the  four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
 
- - 1) After nullifying the scores of (th graders at Thomas High School, there was not much difference in the school district summary.
+ - 1) After nullifying the scores of 9th graders at Thomas High School, there was not much difference in the school district summary.
 
  - 2) when we nullified the scores of 9th graders at Thomas High school, we could observe that the school lost its rank in the top 5 ranking schools.
 
