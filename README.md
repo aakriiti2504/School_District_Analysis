@@ -27,9 +27,46 @@ The school board has notified Maria and her supervisor that the students_complet
 - The reading and math scores were then replaced by 'NaN' so that such entries will not be considered for calculation in the school district summary.
  
 ![15](https://user-images.githubusercontent.com/23488019/142519175-45dab3df-1bea-4263-88c2-72e4ecbda380.PNG)
+
 ## Code Snapshots of the Deliverables:
+### Deliverable 1:
 ![22](https://user-images.githubusercontent.com/23488019/142552638-33c91487-bfa1-42a8-b161-efe4823e4c7c.PNG)
 ![23](https://user-images.githubusercontent.com/23488019/142552648-104a4faa-38e6-4b50-a79e-4a67d78ef2d6.PNG)
+
+### Deliverable 2:
+![24](https://user-images.githubusercontent.com/23488019/142558584-5dfa9fc3-946e-4874-abf6-949ece5cb1b4.PNG)
+![25](https://user-images.githubusercontent.com/23488019/142558570-ac695a27-5649-4d8f-bb8d-4379e1a8c934.PNG)
+![26](https://user-images.githubusercontent.com/23488019/142558565-6797e11c-7f3e-4ced-9963-b6cb12c0ed4c.PNG)
+
+#### School District Analysis
+- The top 5 and bottom 5 performing schools, based on the overall passing rate
+![27](https://user-images.githubusercontent.com/23488019/142558970-54483408-adb4-4ea1-82b5-7abb5b5f8f0e.PNG)
+![28](https://user-images.githubusercontent.com/23488019/142558978-d440b4c5-758a-4b63-8c81-4648c3910653.PNG)
+
+- The average math score for each grade level from each school
+
+![37](https://user-images.githubusercontent.com/23488019/142559951-08e3d6a8-30a6-4255-aa89-756f910cb72e.PNG)
+
+- The average reading score for each grade level from each school
+
+![36](https://user-images.githubusercontent.com/23488019/142559954-25bc72f7-50c6-4d17-94ce-f2662f74a828.PNG)
+
+
+- The scores by school spending per student, by school size, and by school type
+#### By Spending
+![29](https://user-images.githubusercontent.com/23488019/142559421-11d08b03-4498-4ca0-98f5-e4efafac0980.PNG)
+
+![30](https://user-images.githubusercontent.com/23488019/142559394-1a381f27-9357-43d3-b6e5-ccf1575f4f29.PNG)
+![31](https://user-images.githubusercontent.com/23488019/142559385-827af8d1-f4e8-4806-8315-41055b19e786.PNG)
+
+#### By school size
+![32](https://user-images.githubusercontent.com/23488019/142559697-77e8c6cb-4a95-46bf-9664-06df05e67a16.PNG)
+![33](https://user-images.githubusercontent.com/23488019/142559703-85b9c7aa-3068-4afb-8332-4626ab8517bb.PNG)
+
+
+#### By school type
+![34](https://user-images.githubusercontent.com/23488019/142559795-3da544fc-9a02-440e-9e5d-dacc4ece6fc5.PNG)
+![35](https://user-images.githubusercontent.com/23488019/142559799-47735f45-9d4f-4d39-ab89-7107451db307.PNG)
 
 
 ## Results: 
